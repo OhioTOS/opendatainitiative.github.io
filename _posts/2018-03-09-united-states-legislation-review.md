@@ -20,3 +20,5 @@ There are many references to data quality and 'holding federal agencies accounta
 There is a good faith effort to keep the quanity of the open data transparency at a high level by including the agency data publishing requirement of 'not later than three years after the enactment of this Act and monthly, when practicable, but not less than quarterly thereafter'
 
 More review necessary of the Federal Funding Accountability and Transparency Act of 2006 and the work of the Recovery Accountability and Transparency Board to verify if this updates the legislative score.
+
+For an in-depth analysis of the 2014 DATA Act, please visit the Data Coalitions website at: https://www.datacoalition.org/issues/data-act/
